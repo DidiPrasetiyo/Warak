@@ -1,0 +1,80 @@
+CRITICAL - 2024-04-23 06:42:03 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:42:16 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:42:21 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:42:22 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:42:22 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:42:22 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:44:04 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-04-23 06:44:05 --> Class "CodeIgniter\Database\MySQL\Connection" not found
+#0 C:\xampp\htdocs\warak\system\Database\Database.php(56): CodeIgniter\Database\Database->initDriver('MySQL', 'CodeIgniter\\Dat...', Array)
+#1 C:\xampp\htdocs\warak\system\Database\Config.php(78): CodeIgniter\Database\Database->load(Array, 'default')
+#2 C:\xampp\htdocs\warak\system\Model.php(97): CodeIgniter\Database\Config::connect('default')
+#3 C:\xampp\htdocs\warak\app\Controllers\Dashboard.php(14): CodeIgniter\Model->__construct()
+#4 C:\xampp\htdocs\warak\system\CodeIgniter.php(801): App\Controllers\Dashboard->__construct()
+#5 C:\xampp\htdocs\warak\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\warak\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\warak\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
